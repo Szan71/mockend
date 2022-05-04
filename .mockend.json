@@ -1,4 +1,5 @@
-[
+{
+    "movies":
     {
       "id": 1,
       "movieTitle": "Interstellar",
@@ -32,4 +33,4 @@
       "directorImageURL": "rajamouli",
       "isFavorite": true
     }
-  ]
+}
